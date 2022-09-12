@@ -1,5 +1,5 @@
 {
-  "name": "proyecto-1a-matematicas",
+  "name": "proyecto-1a-matematicas-0643",
   "version": "1.0.0",
   "description": "Proyecto de matematicas ",
   "main": "index.js",
@@ -14,7 +14,7 @@
     "math",
     "matematica"
   ],
-  "author": "Marlon Leon",
+  "author": "Marlon Leon <dandres64@gmail.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/dandres10/proyecto-1a-matematicas/issues"
